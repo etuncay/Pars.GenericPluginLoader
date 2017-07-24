@@ -1,0 +1,4 @@
+Z:\Projects\Pars\Pars.GenericPluginLoader\Pars.GenericPluginLoader\bin\Debug\Pars.GenericPluginLoader.dll
+Z:\Projects\Pars\Pars.GenericPluginLoader\Pars.GenericPluginLoader\bin\Debug\Pars.GenericPluginLoader.pdb
+Z:\Projects\Pars\Pars.GenericPluginLoader\Pars.GenericPluginLoader\obj\Debug\Pars.GenericPluginLoader.dll
+Z:\Projects\Pars\Pars.GenericPluginLoader\Pars.GenericPluginLoader\obj\Debug\Pars.GenericPluginLoader.pdb
